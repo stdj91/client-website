@@ -2,25 +2,27 @@ export const homeObjOne = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Exclusive Access',
-    headline: 'Unlimited Transactions with zero fees',
-    description: 'Get access to our exclusive diamond card that allows you to send unlimited transactions without getting charged any fees.',
+    topLine: 'Lorem Ipsum',
+    headline: 'Lorem Ipsum is simply dummy text of the printing.',
+    description: 'Lorem Ipsum has been the industry s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
     buttonLabel: 'Get Started',
     imgStart: '',
     img: 'img/card-image.svg',
-    alt: 'Credit Card'
+    alt: 'Credit Card',
+    img1: 'images/picture2.jpg'
+  
 };
 export const homeObjTwo = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: '100% SECURE',
-    headline: 'Stay protected 24/7 anywhere anytime',
+    topLine: '100% Lorem Ipsum',
+    headline: 'It has survived not only five centuries,',
     description:
-      'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
+      'Lorem Ipsum passages, and more recently with desktop publishing.',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: 'img/svg-5.svg',
+    img: 'img/cross-platform.svg',
     alt: 'Vault'
   };
   
@@ -28,10 +30,10 @@ export const homeObjTwo = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'EASY SETUP',
-    headline: 'Super fast and simple onboarding process',
+    topLine: 'LOREM IPSUM',
+    headline: 'Contrary to popular belief, Lorem Ipsum is not simply random text.',
     description:
-      "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
+      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. ",
     buttonLabel: 'Start Now',
     imgStart: 'start',
     img: 'img/svg-7.svg',
@@ -42,10 +44,10 @@ export const homeObjTwo = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'DATA ANALYTICS',
-    headline: 'Every transaction is stored on our secure cloud database',
+    topLine: 'LOREM IPSUM',
+    headline: 'Lorem Ipsum is simply dummy text of the printing.',
     description:
-      'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
+      'Lorem Ipsum has been the industry s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
     img: 'img/svg-8.svg',

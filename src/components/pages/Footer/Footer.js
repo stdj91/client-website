@@ -16,10 +16,10 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join our exclusive membership to receive the latest news and trends
+        The standard chunk of Lorem Ipsum used since the 1500s.
         </p>
         <p className='footer-subscription-text'>
-          You can unsubscribe at any time.
+          Lorem ipsum dolor
         </p>
         <div className='input-areas'>
           <form>
@@ -38,9 +38,9 @@ function Footer() {
           <div className='footer-link-items'>
             <h2>About Us</h2>
             <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
+            <Link to='/'>Shop</Link>
             <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
+            <Link to='/'>Products</Link>
             <Link to='/'>Terms of Service</Link>
           </div>
           <div className='footer-link-items'>
@@ -73,10 +73,10 @@ function Footer() {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               <MdFingerprint className='navbar-icon' />
-              LAVISH
+              EDUCATION
             </Link>
           </div>
-          <small className='website-rights'>LAVISH © 2020</small>
+         
           <div className='social-icons'>
             <Link
               className='social-icon-link'
